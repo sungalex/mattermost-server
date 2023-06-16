@@ -64,9 +64,9 @@ require (
 	github.com/yuin/goldmark v1.4.13
 	golang.org/x/crypto v0.0.0-20220817201139-bc19a97f63c8
 	golang.org/x/image v0.0.0-20220722155232-062f8c9fd539
-	golang.org/x/net v0.0.0-20220812174116-3211cb980234
+	golang.org/x/net v0.7.0
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/text v0.3.7
+	golang.org/x/text v0.7.0
 	golang.org/x/tools v0.1.12
 	gopkg.in/mail.v2 v2.3.1
 	gopkg.in/yaml.v2 v2.4.0
@@ -168,7 +168,7 @@ require (
 	go.etcd.io/bbolt v1.3.6 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/sys v0.0.0-20220817070843-5a390386f1f2 // indirect
+	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/genproto v0.0.0-20220817144833-d7fd3f11b9b1 // indirect
 	google.golang.org/grpc v1.48.0 // indirect
