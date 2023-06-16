@@ -3,7 +3,7 @@ module github.com/mattermost/mattermost-server/v6
 go 1.18
 
 require (
-	code.sajari.com/docconv v1.2.1
+	code.sajari.com/docconv v1.3.5
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/avct/uasurfer v0.0.0-20191028135549-26b5daa857f1
 	github.com/aws/aws-sdk-go v1.44.79
